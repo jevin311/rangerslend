@@ -1,18 +1,14 @@
 {
-  "name": "xmicrolend",
-  "version": "0.1.0",
-  "description": "XRPL Micro-lending MVP (DID + Issued Currency + Escrow) - Testnet",
+  "name": "xrpl-mvp-rangerpayments",
+  "version": "1.0.0",
+  "description": "XRPL MVP demonstrating DID, issued tokens (RLUSD-style), and payments",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "demo": "node tests/demo-flow.js"
+    "start": "node server.js"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "dotenv": "^16.0.3",
-    "xrpl": "^4.4.1",
-    "body-parser": "^1.20.2",
-    "node-fetch": "^3.4.1"
+    "xrpl": "^4.4.1"
   }
 }
-
