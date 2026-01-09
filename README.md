@@ -543,25 +543,6 @@ PING_MESSAGE=pong
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please ensure:
-
-- Code follows existing style conventions
-- TypeScript types are properly defined
-- Components follow established patterns
-- Commit messages are clear and descriptive
-
----
-
 ## 🐛 Troubleshooting
 
 ### "Unable to input numbers in escrow fields"
@@ -610,15 +591,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📧 Contact & Support
-
-- **Issues**: Open an issue on GitHub
-- **Discussions**: Use GitHub Discussions for questions
-- **Email**: [Your contact email]
-- **Twitter**: [@YourHandle]
-
----
-
 ## 🙏 Acknowledgments
 
 - XRP Ledger Foundation for XRPL resources
@@ -629,6 +601,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Made with ❤️ for the XRPL community**
 
 Last Updated: January 2024 | Version 0.9
